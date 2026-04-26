@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAE322A7-643D-4859-9BDC-9058ACED95A0}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400089\\tp_modul9_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE322A7-643D-4859-9BDC-9058ACED95A0}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|solutionrelative:tp_modul9_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400089\\tp_modul9_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|solutionrelative:tp_modul9_103022400089\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400089\\tp_modul9_103022400089\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|solutionrelative:tp_modul9_103022400089\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400089\\tp_modul9_103022400089\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|solutionrelative:tp_modul9_103022400089\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|c:\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400089\\tp_modul9_103022400089\\tp_modul9_103022400089.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD87B632-FFC6-41B7-178A-34C7AB492F74}|TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj|solutionrelative:tp_modul9_103022400089\\tp_modul9_103022400089.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Program.cs",
-              "RelativeDocumentMoniker": "TP_MODUL9_103022400089\\Program.cs",
-              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Program.cs",
-              "RelativeToolTip": "TP_MODUL9_103022400089\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T13:23:48.651Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
             },
             {
               "$type": "Bookmark",
@@ -38,12 +41,58 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400089\\CovidConfig.cs",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400089\\CovidConfig.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:38:07.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Covid_Config.json",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Covid_Config.json",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400089\\Covid_Config.json",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Covid_Config.json",
+              "RelativeToolTip": "TP_MODUL9_103022400089\\Covid_Config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T13:37:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TP_MODUL9_103022400089.csproj",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj",
+              "RelativeToolTip": "TP_MODUL9_103022400089\\TP_MODUL9_103022400089.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-26T13:35:01.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400089\\Program.cs",
+              "ToolTip": "C:\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400089\\TP_MODUL9_103022400089\\Program.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400089\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T13:23:48.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
